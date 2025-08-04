@@ -72,7 +72,7 @@ The website is fully responsive and adapts to mobile screen sizes via CSS media 
 
 ## 📬 Contact
 
-- 📧 Email: [prashantsingh07534@gmail.com](mailto:prashantsingh07534@gmail.com)  
+- 📧 Email: [prashant01729@gmail.com](mailto:prashant01729@gmail.com)  
 - 🧑‍💻 GitHub: [github.com/Prashant01729](https://github.com/Prashant01729)
 
 ---
