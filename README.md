@@ -1,3 +1,15 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Prashant Singh
+
+INTERN ID: CT06DG3462
+
+DOMAIN: Frontend Web Development
+
+DURATION: 6 WEEKS
+
+MENTOR: Neela Santhosh Kumar
+
 # Internship Task 3 – Personal Portfolio Webpage
 
 This is a responsive personal portfolio webpage built using **HTML** and **CSS** as part of Internship Task 3. The project showcases personal details, featured projects, and contact information in a structured and accessible format. It serves as an online introduction and project hub for **Prashant Singh**.
